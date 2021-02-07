@@ -1,0 +1,53 @@
+.contacts__addgroup {
+    display: flex;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    margin-left: 3%;
+}
+
+.contacts__addcontact {
+    font-size: 11px;
+}
+.contacts__button {
+    background-color: #6baacf;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+
+    display: flex;
+    align-items: center;
+
+    min-height: 22px;
+    min-width: 115px;
+
+}
+
+.contacts__add-contact-icon {
+}
+
+.contacts__add-contact-text {
+    font-size: 10px;
+    padding-left: 1%;
+    text-align: center;
+}
+
+.contacts__group {
+    margin-left: auto;
+    padding-right: 3%;
+}
+.contacts__group-button {
+    background-color: #6baacf;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+
+    display: flex;
+    align-items: center;
+
+    min-height: 22px;
+    min-width: 115px;
+    font-size: 10px;
+}

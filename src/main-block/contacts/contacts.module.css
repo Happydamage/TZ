@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    margin-bottom: 15%;
+    margin-top: 8%;
+
+    width: 69%;
+    border-radius: 5px;
+    flex-direction: column;
+    background-color: #ffffff;
+    box-shadow: 0 1px 0 #789cb2;
+
+}
+
+.contactsOnline {
+    color: #89bbd9;
+    padding-top: 3%;
+    padding-left: 5%;
+}
+
+.chat {
+    overflow-y: auto;
+    margin-top: 3%;
+}
+
+::-webkit-scrollbar {
+    width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+
+    border-color: rgb(119, 119, 119);
+    background-color: #6baacf;
+    border-radius: 5px;
+}
+
+
+

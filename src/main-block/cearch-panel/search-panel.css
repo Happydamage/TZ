@@ -1,0 +1,27 @@
+.search-panel {
+    display: flex;
+    margin: 1% 3% ;
+
+    border: thin solid #89bbd9;
+    border-radius: 3px;
+}
+
+.search-panel__input {
+    width: 100%;
+    color: #89bbd9;
+    border: none;
+    outline:none;
+}
+.search__input:active {
+    color: #89bbd9;
+    border: none;
+}
+
+
+.search-panel__icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-right: 1px solid #89bbd9;
+    padding: 1% 5%;
+}

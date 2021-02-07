@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding: 3% 2% 3% 4%;
+    margin-bottom: 1%;
+
+    border-top: thin solid #e3ecec;
+    border-bottom: thin solid #e3ecec;
+}
+
+
+.icon {
+    background-image: none;
+    background-color: #662e91;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+
+    color: white;
+    text-align: center;
+
+    margin-right: 1%;
+    font-size: 28px;
+}
+
+.MessageName {
+    color: #89bbd9;
+}
+
+.name {
+    font-size: 14px;
+}
+
+.message {
+    color: gray;
+    font-size: 12px;
+    white-space: pre;
+}
+
+.DateTime {
+    margin-left: auto;
+    font-size: 10px;
+    padding-left: 3%;
+    padding-top: 1%;
+    color: #789cb2;
+}
+
+.time {
+    text-align: right;
+}
