@@ -57,6 +57,10 @@
     font-size: 11px;
 }
 
+.visible {
+    opacity: 1;
+}
+
 .status {
     border-radius: 5px;
     position: relative;

@@ -43,6 +43,11 @@
     font-size: 11px;
 }
 
+
+.visible {
+    opacity: 1 !important;
+}
+
 .status {
     border-radius: 5px;
     position: relative;
